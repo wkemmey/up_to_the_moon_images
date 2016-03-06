@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: family_900_650.jpg
+alt: image-alt
+description: Family pictures December 2015 at Sneads Farm in Fredericksburg, VA. With the family going through so much change in the last year (we had two kids get married!), my oldest daughter Megan, asked if we could update the family pictures we took the Christmas prior. It is nice when the family asks you to take their picture!
+
+---

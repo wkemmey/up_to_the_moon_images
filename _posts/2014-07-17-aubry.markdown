@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: little_girl_900_650.jpg
+alt: image-alt
+description: Aubry had zero interest in being photographed that day. Luckily, all I had to do was be at the ready while she played with rocks at the park. Super cute!
+
+---

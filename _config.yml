@@ -1,0 +1,56 @@
+# Site settings
+title: Up to the Moon Images
+email: uptothemoonimages@gmail.com
+url: http://uptothemoonimages.com
+description: "Portfolio for Up to the Moon Images by Heather Kemmey."
+skills: "Birth Photography - Family Photography - Oh, and selfies"
+meta_author: Kemmey Heather
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: B98EA7
+  primary-rgb: "185,142,167"
+  secondary: 302F4D
+  secondary-dark: 120D31
+
+# Footer settings
+footer:
+  copyright: Up to the Moon Images
+  location: Location
+  social: Connect with Me
+  # credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  - title: facebook
+    url: https://www.facebook.com/Up-to-the-MOON-Images-235828573284311/
+  
+# Postal address (add as many lines as necessary)
+address:
+  - line: 207 Lombardy Drive
+  - line: Fredericksburg, VA 22408
+
+# Credits content
+# credits: 'Website by Gray Kemmey'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

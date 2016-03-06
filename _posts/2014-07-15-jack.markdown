@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: jack_900_650.jpg
+alt: image-alt
+description: Baby Jack is as photogenic as ever, and proudly showing off his first few teeth!
+
+---
